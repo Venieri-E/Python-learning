@@ -62,4 +62,3 @@ new_user1.get_job1()
 # man = Person("Anton", 22, 160, 60)
 # women = Person ("Dasha" , 26 , 160 , 55)
 # women1 = Person ("Dana" , 21 , 158 , 52)
-
